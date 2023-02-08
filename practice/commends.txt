@@ -1,0 +1,31 @@
+esc: i
+w: save
+q: quit
+q!: forcable quit
+sudo chmod 777 filename: to give permissions
+ls -la: list of file in current directory
+cat filename: to see the data inside the file
+vim : editer
+date: today date and time
+cal: present month calendar will display
+clear: clear the display
+cd: change directory
+pwd: present working directory
+/: route direcory 
+directory: folder in windows, directory in linux
+whoami: current user
+sudo su -root: switch to root
+mkdir : to create a directory
+touch file: to create a file
+cat > file: you can insert data but already exist data will eraise
+crtl d: end of the file you will come out of the file
+cat file name: you can see the data in side of that file
+cat >> file name: you can insert the data without lost old data
+rm filename: you delete the file
+rm -i file name: you can interact with file and if you want to delete type y
+rm -r directory name (rm -r s1): you can delete the directory 
+ls -l: you can see the meta data and who created data and permissions also you can see
+ls -lah: you can see the data size
+ls -laht: you can see the data size of files and latest files on top
+ls -lahtr: you can see the data size of files and old files on top
+man ls: you can see the list of commands document
